@@ -1,0 +1,6 @@
+﻿  tema.cpp
+D:\apd\tema\tema\tema.cpp(29,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\apd\tema\tema\tema.cpp(59,48): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+D:\apd\tema\tema\tema.cpp(59,48): warning C4566: character represented by universal-character-name '\u021B' cannot be represented in the current code page (1252)
+D:\apd\tema\tema\tema.cpp(62,48): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+  tema.vcxproj -> D:\apd\tema\x64\Debug\tema.exe
